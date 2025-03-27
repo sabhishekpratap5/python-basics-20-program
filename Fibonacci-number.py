@@ -1,4 +1,4 @@
-# Fibonacci Sequence
+# Fibonacci number
 
 def fibonacci(num):
     if num == 0: 
